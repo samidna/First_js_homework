@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('../img/istockphoto-1168092599-612x612.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.form {
+    background-color: #96CEE4;
+    border: 1px solid grey;
+    width: 500px;
+    border-radius: 8px;
+}
+.sign_in {
+    text-align: center;
+    padding-bottom: 35px;
+    font-weight: 700;
+    font-size: 25px;
+}
